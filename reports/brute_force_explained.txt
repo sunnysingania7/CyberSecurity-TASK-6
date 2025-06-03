@@ -1,0 +1,5 @@
+Brute force attacks are one of the simplest but most time-consuming password attack methods. In this approach, a malicious actor attempts to guess a password by trying every possible combination until the correct one is found. It relies purely on computational power and time. 
+
+For example, if a password consists of lowercase letter and is 5 characters long, there are 26^5 (11,881,376) possible combinations. The more complex and longeer a password is (using uppercase, numbers, symbols), the harder it becomes for brute force to succeed. 
+
+The key weakness this attack exploits is short or simple passwords. Proper defense includes long passphrases, multi-factor authentication (MFA), and account lockouts after repeated failed attempts. 

@@ -1,0 +1,9 @@
+Tools Used : 
+    1. Bitwarden Password Strength Tester - https://bitwarden.com/password-strength/
+    2. PasswordMonster - https://passwordmonster.com 
+    3. Security.org Password Tool - https://www.security.org/how-secure-is-my-password/ 
+
+Concepts & Definitions : 
+    4. Brute Force, Dictionary Attacks, Credential Stuffing - OWASP Foundation (https://owasp.org)
+    5. MFA Best Practices - Google Security Blog 
+    6. Password Manager Guide - Bitwarden Docs
